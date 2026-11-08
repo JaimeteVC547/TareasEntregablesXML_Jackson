@@ -1,0 +1,9 @@
+{
+    "java.import.maven.enabled": false,
+    "java.project.sourcePaths": [
+        "src/main/java"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/*.jar"
+    ]
+}
